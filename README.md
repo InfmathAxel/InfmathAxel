@@ -1,5 +1,11 @@
 ### Hello there 👋
 
+I am Axel Demuth, a second-year Master's student in Mathematics and Computer Science at the CSMI program (Scientific Computing and Mathematical Innovation). My studies primarily focus on Data Science, Artificial Intelligence, Scientific Computing, High-Performance Computing (HPC), and the numerical resolution of Partial Differential Equations (PDEs).
+
+I am currently seeking an internship for the second semester of 2024 in the field of Data Science or Artificial Intelligence.
+
+I already have experience working in a team environment, having completed an internship where I contributed to a project on generating LOD2 building meshes using the CGAL library from point cloud data. You can find the report for this project in the Internship Report 2024 section at Building-LOD2 here : https://feelpp.github.io/ktirio-geom.docs/internship-reports-2024/building_lod2/index.html
+
 <!--
 **InfmathAxel/InfmathAxel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
